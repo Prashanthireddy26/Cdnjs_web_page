@@ -78,11 +78,9 @@ nav i{
     /* align-items: center; */
     float: right;
     width: 800px;
-    font-family: sans-serif;
-    
-    
+    font-family: sans-serif;  
 }
-#d2 ol{
+#d2 ol {
     font-size: 30px;
     display: flex;
     justify-content: space-evenly;
