@@ -188,11 +188,9 @@ footer font{
     justify-content: center;
     /* line-height: 30px; */
    
-    /* align-items: center; */
-
-    
+    /* align-items: center; */   
 }
-.c1 ol{
+.c1 ol {
     list-style: none;
     padding-top:70px ;
     color: white;
