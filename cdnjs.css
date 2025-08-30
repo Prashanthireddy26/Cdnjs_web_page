@@ -21,11 +21,10 @@ aside{
     /* top: 0%; */
     /* background-position:inherit; */
 }
-
 /* nav bar start's here */
 nav{
     /* border: 2px solid blue; */
-    height: 100px;
+    height: 101px;
     display: flex;
     justify-content: space-between;
     align-items: center;
