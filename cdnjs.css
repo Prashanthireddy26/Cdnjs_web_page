@@ -190,6 +190,8 @@ footer font{
    
     /* align-items: center; */   
 }
+
+
 .c1 ol {
     list-style: none;
     padding-top:70px ;
@@ -198,10 +200,14 @@ footer font{
     /* display: flex; */
      font-family: monospace;
 }
+
+
 footer img{
     height: 50px;
 }
 .c1 li{
     font-size: 25px;
 }
+
+
 /*css ends here  */
